@@ -1,3 +1,4 @@
+# USE https://nbviewer.org/ TO VIEW DATA VISUALIZATION PROJECT AND CODE. Click Monthly Sales Sneakers vs Streetwear file and copy the URL, paste into website.
 # Monthly-Sales-Sneakers-vs-Streetwear
 TSTC Final for Programming Logic class
 
